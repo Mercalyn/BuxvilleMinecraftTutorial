@@ -1,0 +1,19 @@
+<! INFO about p.2 >
+<script>
+$(".pagerightout").addClass("gpageleftout").removeClass("pageleftout");
+$(".pagerightin").addClass("gpageleftin").removeClass("pageleftin");;
+
+</script>
+
+<h1 style="color:white;"><center>First: a note - page 2 of 2</center></h1>
+<div id="finalinner">
+<p class="about">
+
+New users will complete the tutorial upon making it to the end. You can only scroll to the next page when you have followed the pages directions and have passed that lesson. Here is a good example:
+
+</p><p class="about">
+
+If you are ready to continue, please click the yellow "i" to learn more about informaticons.
+
+</p>
+</div>

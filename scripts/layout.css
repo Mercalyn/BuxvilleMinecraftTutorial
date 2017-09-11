@@ -1,0 +1,275 @@
+body{
+	background-color:rgb(12,12,12);
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+
+P.about{
+	text-indent:50px;
+	margin:10px 50px;
+	font-size:11pt;
+	letter-spacing:1px;
+	color:black;
+	line-height:17px;
+}
+
+h1,h2,p,#shadowtext{
+	font-family:"Lucida Console",Helvetica,sans-serif;
+}
+
+h1.pc{
+	margin:0px;
+	padding:0px;
+}
+
+p,#shadowtext{
+	letter-spacing:-1px;
+}
+
+#main{
+	background-color:black;
+	position:absolute;
+	top:150px;
+	left:0px;
+	width:100%;
+	border-top:2px solid #181818;
+	
+}
+
+#pagecontainer{
+	position:absolute;
+	background-color:;
+	top:10%;
+	left:50%;
+	margin-left:-525px;
+	width:1000px;
+	/*924-960-1050*/
+}
+
+#pageinner,#pageinnersecond{
+	background-color:#222;
+	position:absolute;
+	border:2px solid #111;
+	width: 800px;
+	top: 0px;
+	height: 100%;
+	left:50%;
+	margin-left: -400px;
+}
+
+#finalinner{
+	background-color:#aaa;
+	position:absolute;
+	border:2px solid #aaa;
+	width: 796px;
+	left:50%;
+	margin-left: -400px;
+}
+
+#pagesideleft,#pagesideright{
+	position:absolute;
+	top:50%;
+	margin-top:-87px;
+	height:170px;
+	cursor:pointer;
+}
+
+#pagesideleft{
+	width:90px;
+	left:0px;
+}
+
+#pagesideright{
+	width:70px;
+	right:0px;
+}
+
+.pageleftout,.pageleftin,.pagerightout,.pagerightin,.gpageleftout,.gpageleftin,.gpagerightout,.gpagerightin{
+	position:absolute;
+	top:0px;
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+
+.pageleftout{
+	left:0px;
+	background-image:url(../img/arrowgreenleft4.png);
+	
+}
+.pageleftin{
+	left:19px;
+	background-image:url(../img/arrowgreenleftin3.png);
+}
+
+.pagerightout{
+	right:0px;
+	background-image:url(../img/arrowgreenright4.png);
+}
+.pagerightin{
+	right:20px;
+	background-image:url(../img/arrowgreenrightin3.png);
+}
+
+/**/
+	
+.gpageleftout{
+	left:0px;
+	background-image:url(../img/arrowgreyleft.png);
+	
+}
+.gpageleftin{
+	left:19px;
+	background-image:url(../img/arrowgreyleftin.png);
+}
+
+.gpagerightout{
+	right:0px;
+	background-image:url(../img/arrowgreyright.png);
+}
+.gpagerightin{
+	right:20px;
+	background-image:url(../img/arrowgreyrightin.png);
+}
+
+
+
+
+#footer{
+	position:absolute;
+	bottom:43px;
+	left:50%;
+	margin:0px 0px 0px -400px;
+	white-space: nowrap;
+}
+
+#shadow{
+	background-color:rgba(0,0,0,0.8);
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	
+}
+
+#shadowbox{
+	color:white;
+	background-color:rgba(20,20,20,1);
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:500px;
+	margin-left:-251px;
+	border:1px solid #FF9900;
+	border-radius:20px;
+}
+
+#titlebar{
+	background-image:url(../img/btb.png);
+	background-repeat:no-repeat;
+	background-position:top center; 
+	overflow:hidden;
+	top:0px;
+	left:0px;
+	position:absolute;
+	height:150px;
+	width:100%;
+}
+
+#shadowbutton{
+	position:absolute;
+	bottom:20px;
+	left:50%;
+	margin-left:-200px;
+}
+
+#rotaterone{
+	/*background-image:url(../img/outercircle.png);*/
+	position:absolute;
+	left:50%;
+	margin-left:-600px;
+	top:-53px;
+}
+
+.menubar{
+	color:white;
+	position:absolute;
+	bottom:4px;
+	left:50%;
+	margin:0px 0px 0px -150px;
+	padding:0px;
+	white-space: nowrap;
+	
+}
+
+.footermember,.menumember{
+	white-space: nowrap;
+	display: inline-block;
+	font-variant:small-caps;
+}
+
+h2.footermember{
+	color:#333;
+	margin:0px 70px;
+	padding:5px 10px 5px 10px;
+	font-size:14pt;
+	border-radius:5px;.
+	border:1px solid black;
+}
+
+h2.menumember{
+	color:#fff;
+	padding:5px 5px 5px 10px;
+	margin:0px 15px;
+	font-size:16pt;
+	letter-spacing:4px;
+	border-radius:5px;
+}
+
+h2.menumember:hover{
+	background-color:#fff;
+	color:#000;
+	cursor:pointer;
+}
+
+h2.footermember:hover{
+	background-color:#000;
+	color:#999;
+	cursor:help;
+}
+
+h2.shadowmember{
+	color:white;
+	padding:5px 10px 5px 15px;
+	margin:0px;
+	font-size:12pt;
+	letter-spacing:4px;
+	border-radius:5px;
+}
+
+#whitetext{
+	color:#E00000;
+	margin:10px 50px;
+	padding:0px;
+}
+
+a:link{
+	text-decoration: none;
+	color: rgb(103,151,223);
+	font-variant:small-caps;
+}
+a:visited{
+	text-decoration: none;
+	color: rgb(103,151,223);
+	font-variant:small-caps;
+}
+a:active{
+	text-decoration: none;
+	color: rgb(103,151,223);
+	font-variant:small-caps;
+}
+a:hover{
+	text-decoration: none;
+	color:#fff;
+}

@@ -1,0 +1,28 @@
+<! INFO about p.1 >
+<script>
+$(".pageleftout").addClass("gpageleftout").removeClass("pageleftout");
+$(".pageleftin").addClass("gpageleftin").removeClass("pageleftin");;
+
+</script>
+
+<h1 style="color:white;"><center>First: a note - page 1 of 2</center></h1>
+<div id="finalinner">
+<p class="about">
+
+This site is a test to see if Buxville could use a web-interactive tutorial
+so the newcomers aren't turned away by sign-lag and massive amounts of information.
+
+</p><p class="about">
+
+To entice newcomers to stay and play with the tutorial for a little while, there could be a
+"what role suits you best" quiz, which then leads into a multiple choice server rules page.
+Whenever a player gets a rule-question wrong, they are told the correct answer, and the webserver
+will add another question before they finish.
+
+</p><p class="about">
+
+If this tutorial works out good, whitelist could be instated again with this webserver telling
+Buxville.net who passed the tutorial(automated whitelist?).
+
+</p>
+</div>

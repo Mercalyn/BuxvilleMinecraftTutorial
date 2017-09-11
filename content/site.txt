@@ -1,0 +1,17 @@
+<div id="shadowbox" style="height:260px;margin-top:-130px;">
+
+<center><h2>
+Site Map
+
+</h2></center>
+<p style="padding:0px 40px;text-indent:3em;line-height:25px;font-size:13pt;letter-spacing:1px;">
+The Site Map is currently disabled until the core components of the website have been programmed.
+
+
+</p>
+<div id="shadowbutton">
+	<h2 class="shadowmember">
+	click anywhere to resume
+	</h2>
+</div>
+</div>

@@ -1,0 +1,20 @@
+<div id="shadowbox" style="height:500px;margin-top:-250px;">
+
+<center><h2>
+Contact Me
+
+</h2></center>
+<p style="padding:0px 40px;text-indent:3em;line-height:25px;font-size:13pt;letter-spacing:1px;">
+This site is currently maintained by Mercalyn. If you have additions you would like to suggest, please consider the following options:
+<br><br>1) If there is a large amount of content you feel needs added or modified, please make a new thread on Buxville.net and ping me.
+<br><br>2) For any small modifications, ping Mercalus via IRC, PM me on the Buxville forums, or /w Merc in game.
+<br><br>Thank you for your inputs.
+
+
+</p>
+<div id="shadowbutton">
+	<h2 class="shadowmember">
+	click anywhere to resume
+	</h2>
+</div>
+</div>

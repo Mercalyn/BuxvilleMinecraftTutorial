@@ -1,0 +1,17 @@
+<div id="shadowbox" style="height:500px;margin-top:-250px;">
+
+<center><h2>
+Terms & Conditions
+
+</h2></center>
+<p style="padding:0px 40px;text-indent:3em;line-height:25px;font-size:13pt;letter-spacing:1px;">
+This domain was intended to be interacted with by 1) the user of such website, connected through HTTP, or 2) the webmaster through both HTTP and FTP protocols. The webmaster(Mercalyn) nor the entity ArtisanZero make any claims for responsibility beyond the intended protocols. <br><br>Data storage is done remotely on the clients machine through the use of cookies, if you disagree with this policy, it should be the intention of the user to <i>turn off</i> their cookie-usage in said web browser.
+<br><br><br>
+
+</p>
+<div id="shadowbutton">
+	<h2 class="shadowmember">
+	click anywhere to resume
+	</h2>
+</div>
+</div>
